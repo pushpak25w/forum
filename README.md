@@ -1,6 +1,4 @@
 # forum
 forum using html and php
 Make database named data and questions
-To run on local server:\n
-1.Copy files to your xampp htdocs folder
-2.Import sql files data and questions under tablename forum
+To run on local server first copy files to your xampp htdocs folder then import sql files data and questions under tablename forum
